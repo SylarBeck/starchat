@@ -33,7 +33,7 @@ pip install -r requirements.txt
 Clone or download this repository:
 
 ```bash
-git clone https://github.com/yourusername/starchat.git
+git clone https://github.com/SylarBeck/starchat.git
 cd starchat
 ```
 
