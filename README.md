@@ -37,6 +37,8 @@ git clone https://github.com/SylarBeck/starchat.git
 cd starchat
 ```
 
+Or Download the Windows x64 Release [Download](https://github.com/SylarBeck/starchat/releases/tag/Dev)
+
 Or just place the `starchat_cli.Beta.py` file somewhere locally.
 
 ---
